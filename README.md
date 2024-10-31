@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello! Its eganh here...
+# Hello! Its eganh here...
 
 
 # 💻 Tech Stack:
