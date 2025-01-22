@@ -4,6 +4,7 @@ I'm Eganh
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/egan-nyamisoa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eganh_) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=egan-ombaka&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=egan-ombaka&theme=dark&hide_border=true)<br/>
