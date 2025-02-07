@@ -21,9 +21,9 @@
 <h4 align="center">Contact Me</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/egan-ombaka/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/egan-nyamisoa/">LinkedIn</a> |
   <a href="https://github.com/egan-ombaka">GitHub</a> |
-  <a href="mailto:egan@example.com">Email</a>
+  <a href="mailto:eganhombaka@gmail.com">Email</a>
 </p>
 
 ---
