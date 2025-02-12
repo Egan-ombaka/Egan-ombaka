@@ -14,7 +14,7 @@
 
 <h4 align="center">Programming Languages</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egan-ombaka&langs_count=10&theme=tokyonight&layout=compact" alt="egan :: Top Langs"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egan-ombaka&langs_count=9&theme=tokyonight&layout=compact" alt="egan :: Top Langs"/></p>
 
 ---
 
